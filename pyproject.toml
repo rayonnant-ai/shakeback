@@ -21,7 +21,7 @@ classifiers = [
 dependencies = ["torch>=2.0"]
 
 [project.urls]
-Homepage = "https://github.com/rohanarezel/shakeback"
+Homepage = "https://github.com/rayonnant-ai/shakeback"
 
 [project.scripts]
 shakeback = "shakeback.cli:main"
